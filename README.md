@@ -1,7 +1,7 @@
 # Julia_DataAnalysis
 Not a complete Julia package, I just put some files here that I make while starting to use Julia for data analysis.
 
- ## fast_tsne.jl
+## fast_tsne.jl
  
  Julia wrapper for Barnes-hut t-SNE by Dennis Eckmeier, 2016
 
