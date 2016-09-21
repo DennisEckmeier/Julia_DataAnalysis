@@ -11,4 +11,5 @@ Not a complete Julia package, I just put some files here that I make while start
           https://lvdmaaten.github.io/tsne/
           
 
-Dr. Dennis Eckmeier, 2016, Champalimaud Foundation Lisbon
+---
+**Dr. Dennis Eckmeier, 2016, Champalimaud Foundation Lisbon**
